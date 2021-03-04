@@ -1,0 +1,20 @@
+{
+    "nombreApp" : "Propio1",
+    "rutas" : [
+        {
+            "texto": "Russ",
+            "ruta" : "cards1",
+            "icon" : "anchor"
+        },
+        {
+            "texto": "Logic",
+            "ruta" : "cards2",
+            "icon" : "audiotrack"
+        },
+        {
+            "texto": "Entrada falsa",
+            "ruta" : "sfdghjk",
+            "icon" : "error_outline"
+        }
+    ]
+}

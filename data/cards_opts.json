@@ -1,0 +1,37 @@
+{
+    "nombreApp" : "Propio1",
+    "tema1" : [
+        {
+            "titulo" : "Ride Slow",
+            "texto"  : "I'm pullin' up at 3, This car just ain't the same without you here next to me, All I wanna do is ride slow (Ayy)",
+            "imagen" : "https://i.pinimg.com/originals/6b/e2/9b/6be29bc83db313e0af10c3bcfc307595.jpg"
+        },
+        {
+            "titulo" : "Missin you crazy",
+            "texto"  : "It's been way too long, Since I seen you, looked you in your eyes, Riding round the town and staying out I don't wanna say goodbye",
+            "imagen" : "https://images.genius.com/8157d6bfc0b15e4ed29d1bb81db8d80c.993x993x1.jpg"
+        },
+        {
+            "titulo" : "aint no boy taking my baby",
+            "texto"  : "I don't care about an argument I'll still be here tomorrow for you, I gotta room up in the city we can play finish the bottle",
+            "imagen" : "https://i1.sndcdn.com/artworks-000199861337-6xa7kx-t500x500.jpg"
+        }
+    ],
+    "tema2" : [
+        {
+            "titulo" : "Nikki",
+            "texto"  : "I can feel you in my lungs, feel you in my veins, Bloodstream only way to make it to my brain, I tried some others but man they just not as good as you, Going crazy 'cause I only feel this good with you",
+            "imagen" : "https://i.pinimg.com/originals/59/28/04/5928044a3f0480c45f05659d95890a48.jpg"
+        },
+        {
+            "titulo" : "44 More",
+            "texto"  : "If you're dealing war, backwards stay far, We're dealing with truths and rights, Come some more into my sight",
+            "imagen" : "https://images.squarespace-cdn.com/content/v1/53b6eb62e4b06e0feb2d8e86/1467398972059-C4BI28LP6G8Q1YW5WU2L/ke17ZwdGBToddI8pDm48kJK4Mm1kch8SFO9ZNkN1NT97gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMSWyqrK_WSd7lxFf2X5E07VQHyNOqBUUEtDDsRWrJLTmnm4Ek6c6YJYE3gl9iwgPJKq2vgGWqptVYgg9TYvSIDlTFobylDafcFNLcX5z_qvO/SamSpratt_Logic_BobbyTarantino_Cover_Art.jpg?format=1000w"
+        },
+        {
+            "titulo" : "Everybody",
+            "texto"  : "Okay I was gone for a minute but I'm back now, Sit the fuck back down, Seem like everybody nowadays Hollywood, Oh it's like that now?",
+            "imagen" : "https://images.squarespace-cdn.com/content/v1/53b6eb62e4b06e0feb2d8e86/1493999021529-YLJSGEBE4P4160W00PH3/ke17ZwdGBToddI8pDm48kBL7y0DpH_e0bbX7enFn0u57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT4ke-2faLbDJ2EQYXZquaaYAmln24LeHvojPJ-RAjfURBpFeAJxHLqEa5Otf4mhGw/SamSpratt_Logic_Everybody_AlbumCover_FinalCrop_1080_V1.jpg?format=1000w"
+        }
+    ]
+}
